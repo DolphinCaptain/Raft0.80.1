@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="raft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CMD/raft.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

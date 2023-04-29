@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="raft1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IDEA/out/artifacts/raft_jar/raft.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
